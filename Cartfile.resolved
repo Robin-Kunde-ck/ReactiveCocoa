@@ -1,4 +1,4 @@
 github "Quick/Nimble" "v8.0.1"
 github "Quick/Quick" "v2.0.0"
-github "ReactiveCocoa/ReactiveSwift" "6.0.0"
+github "Robin-Kunde-ck/ReactiveSwift" "d626d69f21c8f2c16d38e0efeef87911c37ddbf1"
 github "jspahrsummers/xcconfigs" "3d9d99634cae6d586e272543d527681283b33eb0"
